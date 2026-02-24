@@ -2,15 +2,15 @@
 
 
 
- **Project Overview**
+ Project Overview
 
 
 
-This project aims to segment a mall's customer base into distinct groups based on their \*\*Annual Income\*\* and \*\*Spending Score\*\*. By identifying these segments, a business can create highly targeted marketing strategies to improve sales and customer retention.
+This project aims to segment a mall's customer base into distinct groups based on their Annual Income and Spending Score. By identifying these segments, a business can create highly targeted marketing strategies to improve sales and customer retention.
 
 
 
-&nbsp;**Tech Stack Used**
+&nbsp;Tech Stack Used
 
 
 
@@ -20,7 +20,7 @@ This project aims to segment a mall's customer base into distinct groups based o
 
 
 
- **Customer Segments (Analysis by Color)**
+ Customer Segments (Analysis by Color)
 
 
 
@@ -34,9 +34,10 @@ Based on the machine learning results, the customers were divided into 5 distinc
 * Orange (Cluster 0) - Sensible Group: Low Annual Income and Low Spending Score. These customers are budget-conscious.
 * Pink (Cluster 4) - Standard Group: Average Income and Average Spending Score. These represent the core "middle-class" customer base.
 
+Dashboard
+(customer dashboard.png)
 
-
- **Key Dashboard Insights**
+ Key Dashboard Insights
 
 
 
@@ -54,6 +55,7 @@ Based on the machine learning results, the customers were divided into 5 distinc
 * customers.py: Python script containing the K-Means clustering logic.
 * Mall\_Customer\_Segmentation.csv: The dataset used for analysis.
 * Segmentation\_Dashboard.pbix: The Power BI dashboard file.
+
 
 
 
